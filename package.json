@@ -23,9 +23,9 @@
   "devDependencies": {
     "@babel/core": "^7.14.0",
     "@changesets/cli": "^2.16.0",
-    "@commitlint/cli": "^12.1.1",
-    "@commitlint/config-conventional": "^12.1.1",
-    "@commitlint/prompt-cli": "^12.1.1",
+    "@commitlint/cli": "^12.1.4",
+    "@commitlint/config-conventional": "^12.1.4",
+    "@commitlint/prompt-cli": "^12.1.4",
     "@pnpm/eslint-config": "workspace:*",
     "@pnpm/meta-updater": "0.0.6",
     "@pnpm/registry-mock": "^2.5.0",
