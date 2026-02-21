@@ -58,7 +58,7 @@
       "hosted-git-info@<3.0.8": "^3.0.8",
       "http-errors": "^1.7.3",
       "istanbul-reports": "npm:@zkochan/istanbul-reports",
-      "js-yaml@^4.0.0": "npm:@zkochan/js-yaml@0.0.5",
+      "js-yaml@^4.0.0": "npm:@zkochan/js-yaml@0.0.11",
       "lodash@<4.17.19": "^4.17.9",
       "nopt@5": "npm:@pnpm/nopt@^0.2.1",
       "rimraf@<3": "3",
